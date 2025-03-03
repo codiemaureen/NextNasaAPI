@@ -1,6 +1,3 @@
-export const metadata = {
-  title : `Nasa's Photo of the Day`
-}
 import styles from './page.module.css'; 
 
 
